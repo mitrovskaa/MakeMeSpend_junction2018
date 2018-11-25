@@ -1,0 +1,132 @@
+[
+    {
+        "category": "entertainment",
+        "name": "merchant_1",
+        "price_cat": 1,
+        "tags": [
+            "swimming",
+            "sauna",
+            "games",
+            "flights"
+        ],
+        "location": 9856,
+        "id": "m0"
+    },
+    {
+        "category": "entertainment",
+        "name": "merchant_2",
+        "price_cat": 2,
+        "tags": [
+            "snow boarding",
+            "vaccation",
+            "sauna",
+            "gym"
+        ],
+        "location": 1393,
+        "id": "m1"
+    },
+    {
+        "category": "entertainment",
+        "name": "merchant_3",
+        "price_cat": 1,
+        "tags": [
+            "flights",
+            "swimming",
+            "movies",
+            "snow boarding"
+        ],
+        "location": 6572,
+        "id": "m2"
+    },
+    {
+        "category": "drinks",
+        "name": "merchant_4",
+        "price_cat": 3,
+        "tags": [
+            "beer",
+            "wine",
+            "soft drinks",
+            "whisky"
+        ],
+        "location": 9692,
+        "id": "m3"
+    },
+    {
+        "category": "clothes",
+        "name": "merchant_5",
+        "price_cat": 2,
+        "tags": [
+            "gym",
+            "movies",
+            "flights",
+            "sauna"
+        ],
+        "location": 9231,
+        "id": "m4"
+    },
+    {
+        "category": "food",
+        "name": "merchant_6",
+        "price_cat": 3,
+        "tags": [
+            "fries",
+            "sandwich",
+            "beef",
+            "chicken"
+        ],
+        "location": 7895,
+        "id": "m5"
+    },
+    {
+        "category": "clothes",
+        "name": "merchant_7",
+        "price_cat": 5,
+        "tags": [
+            "snow boarding",
+            "movies",
+            "sauna",
+            "flights"
+        ],
+        "location": 4314,
+        "id": "m6"
+    },
+    {
+        "category": "clothes",
+        "name": "merchant_8",
+        "price_cat": 5,
+        "tags": [
+            "sauna",
+            "flights",
+            "games",
+            "swimming"
+        ],
+        "location": 1136,
+        "id": "m7"
+    },
+    {
+        "category": "drinks",
+        "name": "merchant_9",
+        "price_cat": 5,
+        "tags": [
+            "tea",
+            "coffee",
+            "water",
+            "soft drinks"
+        ],
+        "location": 5999,
+        "id": "m8"
+    },
+    {
+        "category": "entertainment",
+        "name": "merchant_10",
+        "price_cat": 4,
+        "tags": [
+            "sauna",
+            "gym",
+            "games",
+            "flights"
+        ],
+        "location": 7891,
+        "id": "m9"
+    }
+]
