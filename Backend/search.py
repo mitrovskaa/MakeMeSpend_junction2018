@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 
 #Given a specific tag, return merchants having such tags
-def search(tag, sortby="price_cat",show=True):
+def search(tag, sortby="price_cat",show=False):
     #Read and filter merchants
     with open("merchants.json",'r') as f:
         val1 = json.load(f)
