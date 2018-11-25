@@ -22,21 +22,34 @@ def get_recom(customer_id,show=True):
                 customer = c
                 break
 
+    keys = list(customer.keys())
+    vals = list(customer.values())
+    id_index,name_index,tags_index,location_index,count = 0,0,0,0,0
+    for i in keys:
+        if i == 'tags':
+            tags_index = count
+        elif i == 'location':
+            location_index = count
+        elif i == 'name':
+            name_index = count
+        elif i == 'id':
+            id_index = count 
+        count+=1
     #For showing customer portfolio
     if show:
         print("Customer data:")
-        vals = list(customer.values())
+        
         #Move tags into one string
-        vals[3] = (' ').join(vals[3])
-        keys = list(customer.keys())
+        vals[tags_index] = (' ').join(vals[tags_index])
+        
         print("="*80)
-        print("{:^5}{:^13}{:^40}{:<10}".format(keys[1],keys[2],keys[3],keys[0]))
-        print("{:<5}{:<13}{:<40}{:^10}\n\n".format(vals[1],vals[2],vals[3],vals[0]))
+        print("{:^5}{:^13}{:^40}{:<10}".format(keys[id_index],keys[name_index],keys[tags_index],keys[location_index]))
+        print("{:<5}{:<13}{:<40}{:^10}\n\n".format(vals[id_index],vals[name_index],vals[tags_index],vals[location_index]))
 
     #Find matches
     ls = []
     for tag in customer["tags"]:
-        for merch in search.search(tag,sortby='price_cat',show=False):
+        for merch in search.search(tag):
             if merch not in ls:
                 ls.append(merch)
     
@@ -45,14 +58,13 @@ def get_recom(customer_id,show=True):
 
     #data holders
     items = []
-    val3 = ["category", "name", "price_cat", "tags", "location", "id", "distance"]
+    val3 = ["category", "name", "price_cat", "tags", "location", "id"]
     for i in ls:
         temp = []
         for key,value in i.items():
             if key == "tags":
                 value = ' '.join(value)
             temp.append(value)
-            temp.append(abs(customer["location"] - i["location"]))
         items.append(temp)
     items_np = np.asarray(items).transpose()
     #for showing possible merchant portfolios
