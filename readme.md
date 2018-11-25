@@ -2,9 +2,9 @@
 
 MobilePay is a mobile payment application developed by Danske Bank. The service allows payments by means of a smartphone application
 
-## Make Me Pay
+## Make Me Spend
 
-Make Me Pay is a range of features created for Mobile pay to encourage Peer to Business transactions.
+Make Me Spend is a range of features created for Mobile pay to encourage Peer to Business transactions.
 
 These features can be listed as: 
 * Crowdsourced Review System
