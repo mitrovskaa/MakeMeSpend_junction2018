@@ -1,0 +1,1102 @@
+[
+    {
+        "location": 7189,
+        "id": "c0",
+        "name": "customer_1",
+        "tags": [
+            "cheese burger",
+            "beer",
+            "whisky",
+            "shorts"
+        ]
+    },
+    {
+        "location": 3754,
+        "id": "c1",
+        "name": "customer_2",
+        "tags": [
+            "snow boarding",
+            "flights",
+            "pork",
+            "t-shirts"
+        ]
+    },
+    {
+        "location": 9931,
+        "id": "c2",
+        "name": "customer_3",
+        "tags": [
+            "shirts",
+            "shorts",
+            "coffee",
+            "vaccation"
+        ]
+    },
+    {
+        "location": 8755,
+        "id": "c3",
+        "name": "customer_4",
+        "tags": [
+            "fries",
+            "soft drinks",
+            "flights",
+            "vaccation"
+        ]
+    },
+    {
+        "location": 6817,
+        "id": "c4",
+        "name": "customer_5",
+        "tags": [
+            "soft drinks",
+            "beef",
+            "whisky",
+            "movies"
+        ]
+    },
+    {
+        "location": 7028,
+        "id": "c5",
+        "name": "customer_6",
+        "tags": [
+            "shorts",
+            "coffee",
+            "cappuccino",
+            "swimming"
+        ]
+    },
+    {
+        "location": 7012,
+        "id": "c6",
+        "name": "customer_7",
+        "tags": [
+            "suites",
+            "shorts",
+            "tea",
+            "gym"
+        ]
+    },
+    {
+        "location": 4681,
+        "id": "c7",
+        "name": "customer_8",
+        "tags": [
+            "chicken",
+            "pants",
+            "cheese burger",
+            "coffee"
+        ]
+    },
+    {
+        "location": 9663,
+        "id": "c8",
+        "name": "customer_9",
+        "tags": [
+            "fish",
+            "stockings",
+            "swimming",
+            "fries"
+        ]
+    },
+    {
+        "location": 6780,
+        "id": "c9",
+        "name": "customer_10",
+        "tags": [
+            "gym",
+            "swimming",
+            "shorts",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 3612,
+        "id": "c10",
+        "name": "customer_11",
+        "tags": [
+            "fries",
+            "beef",
+            "games",
+            "gym"
+        ]
+    },
+    {
+        "location": 3222,
+        "id": "c11",
+        "name": "customer_12",
+        "tags": [
+            "snow boarding",
+            "movies",
+            "gym",
+            "pork"
+        ]
+    },
+    {
+        "location": 5444,
+        "id": "c12",
+        "name": "customer_13",
+        "tags": [
+            "snow boarding",
+            "ties",
+            "vaccation",
+            "tea"
+        ]
+    },
+    {
+        "location": 9855,
+        "id": "c13",
+        "name": "customer_14",
+        "tags": [
+            "flights",
+            "swimming",
+            "shirts",
+            "stockings"
+        ]
+    },
+    {
+        "location": 6202,
+        "id": "c14",
+        "name": "customer_15",
+        "tags": [
+            "shorts",
+            "vaccation",
+            "suites",
+            "fries"
+        ]
+    },
+    {
+        "location": 9345,
+        "id": "c15",
+        "name": "customer_16",
+        "tags": [
+            "burger",
+            "soft drinks",
+            "fries",
+            "pants"
+        ]
+    },
+    {
+        "location": 8502,
+        "id": "c16",
+        "name": "customer_17",
+        "tags": [
+            "games",
+            "beef",
+            "sandwich",
+            "ties"
+        ]
+    },
+    {
+        "location": 8590,
+        "id": "c17",
+        "name": "customer_18",
+        "tags": [
+            "fries",
+            "games",
+            "ties",
+            "flights"
+        ]
+    },
+    {
+        "location": 2330,
+        "id": "c18",
+        "name": "customer_19",
+        "tags": [
+            "pork",
+            "flights",
+            "shorts",
+            "cheese burger"
+        ]
+    },
+    {
+        "location": 2582,
+        "id": "c19",
+        "name": "customer_20",
+        "tags": [
+            "t-shirts",
+            "dresses",
+            "fish",
+            "snow boarding"
+        ]
+    },
+    {
+        "location": 8437,
+        "id": "c20",
+        "name": "customer_21",
+        "tags": [
+            "fries",
+            "whisky",
+            "coffee",
+            "wine"
+        ]
+    },
+    {
+        "location": 8786,
+        "id": "c21",
+        "name": "customer_22",
+        "tags": [
+            "soft drinks",
+            "shirts",
+            "pork",
+            "beef"
+        ]
+    },
+    {
+        "location": 5052,
+        "id": "c22",
+        "name": "customer_23",
+        "tags": [
+            "soft drinks",
+            "t-shirts",
+            "whisky",
+            "swimming"
+        ]
+    },
+    {
+        "location": 9992,
+        "id": "c23",
+        "name": "customer_24",
+        "tags": [
+            "shorts",
+            "dresses",
+            "cappuccino",
+            "t-shirts"
+        ]
+    },
+    {
+        "location": 9498,
+        "id": "c24",
+        "name": "customer_25",
+        "tags": [
+            "beef",
+            "whisky",
+            "shorts",
+            "beer"
+        ]
+    },
+    {
+        "location": 2973,
+        "id": "c25",
+        "name": "customer_26",
+        "tags": [
+            "t-shirts",
+            "soft drinks",
+            "chicken",
+            "games"
+        ]
+    },
+    {
+        "location": 6008,
+        "id": "c26",
+        "name": "customer_27",
+        "tags": [
+            "chicken",
+            "shorts",
+            "games",
+            "pork"
+        ]
+    },
+    {
+        "location": 9022,
+        "id": "c27",
+        "name": "customer_28",
+        "tags": [
+            "snow boarding",
+            "swimming",
+            "pork",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 5394,
+        "id": "c28",
+        "name": "customer_29",
+        "tags": [
+            "flights",
+            "shorts",
+            "ties",
+            "movies"
+        ]
+    },
+    {
+        "location": 9535,
+        "id": "c29",
+        "name": "customer_30",
+        "tags": [
+            "burger",
+            "coffee",
+            "sandwich",
+            "games"
+        ]
+    },
+    {
+        "location": 5346,
+        "id": "c30",
+        "name": "customer_31",
+        "tags": [
+            "burger",
+            "tea",
+            "sauna",
+            "coffee"
+        ]
+    },
+    {
+        "location": 6890,
+        "id": "c31",
+        "name": "customer_32",
+        "tags": [
+            "stockings",
+            "vaccation",
+            "burger",
+            "beer"
+        ]
+    },
+    {
+        "location": 1725,
+        "id": "c32",
+        "name": "customer_33",
+        "tags": [
+            "pork",
+            "soft drinks",
+            "shorts",
+            "swimming"
+        ]
+    },
+    {
+        "location": 7718,
+        "id": "c33",
+        "name": "customer_34",
+        "tags": [
+            "soft drinks",
+            "sandwich",
+            "stockings",
+            "t-shirts"
+        ]
+    },
+    {
+        "location": 2241,
+        "id": "c34",
+        "name": "customer_35",
+        "tags": [
+            "suites",
+            "games",
+            "swimming",
+            "cheese burger"
+        ]
+    },
+    {
+        "location": 7615,
+        "id": "c35",
+        "name": "customer_36",
+        "tags": [
+            "soft drinks",
+            "games",
+            "coffee",
+            "sauna"
+        ]
+    },
+    {
+        "location": 5217,
+        "id": "c36",
+        "name": "customer_37",
+        "tags": [
+            "suites",
+            "games",
+            "stockings",
+            "shorts"
+        ]
+    },
+    {
+        "location": 7131,
+        "id": "c37",
+        "name": "customer_38",
+        "tags": [
+            "beer",
+            "coffee",
+            "games",
+            "shirts"
+        ]
+    },
+    {
+        "location": 3461,
+        "id": "c38",
+        "name": "customer_39",
+        "tags": [
+            "stockings",
+            "wine",
+            "soft drinks",
+            "pork"
+        ]
+    },
+    {
+        "location": 7903,
+        "id": "c39",
+        "name": "customer_40",
+        "tags": [
+            "sandwich",
+            "snow boarding",
+            "fish",
+            "ties"
+        ]
+    },
+    {
+        "location": 7541,
+        "id": "c40",
+        "name": "customer_41",
+        "tags": [
+            "vaccation",
+            "t-shirts",
+            "beer",
+            "beef"
+        ]
+    },
+    {
+        "location": 2175,
+        "id": "c41",
+        "name": "customer_42",
+        "tags": [
+            "chicken",
+            "pants",
+            "flights",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 2532,
+        "id": "c42",
+        "name": "customer_43",
+        "tags": [
+            "sauna",
+            "burger",
+            "whisky",
+            "cheese burger"
+        ]
+    },
+    {
+        "location": 3385,
+        "id": "c43",
+        "name": "customer_44",
+        "tags": [
+            "coffee",
+            "t-shirts",
+            "snow boarding",
+            "beer"
+        ]
+    },
+    {
+        "location": 4194,
+        "id": "c44",
+        "name": "customer_45",
+        "tags": [
+            "chicken",
+            "tea",
+            "cheese burger",
+            "fish"
+        ]
+    },
+    {
+        "location": 5126,
+        "id": "c45",
+        "name": "customer_46",
+        "tags": [
+            "stockings",
+            "chicken",
+            "movies",
+            "ties"
+        ]
+    },
+    {
+        "location": 1548,
+        "id": "c46",
+        "name": "customer_47",
+        "tags": [
+            "movies",
+            "pants",
+            "vaccation",
+            "swimming"
+        ]
+    },
+    {
+        "location": 9335,
+        "id": "c47",
+        "name": "customer_48",
+        "tags": [
+            "pants",
+            "cheese burger",
+            "wine",
+            "gym"
+        ]
+    },
+    {
+        "location": 5167,
+        "id": "c48",
+        "name": "customer_49",
+        "tags": [
+            "pork",
+            "gym",
+            "shorts",
+            "burger"
+        ]
+    },
+    {
+        "location": 1133,
+        "id": "c49",
+        "name": "customer_50",
+        "tags": [
+            "burger",
+            "games",
+            "t-shirts",
+            "vaccation"
+        ]
+    },
+    {
+        "location": 9170,
+        "id": "c50",
+        "name": "customer_51",
+        "tags": [
+            "snow boarding",
+            "vaccation",
+            "tea",
+            "burger"
+        ]
+    },
+    {
+        "location": 8084,
+        "id": "c51",
+        "name": "customer_52",
+        "tags": [
+            "fries",
+            "beef",
+            "t-shirts",
+            "wine"
+        ]
+    },
+    {
+        "location": 4964,
+        "id": "c52",
+        "name": "customer_53",
+        "tags": [
+            "wine",
+            "burger",
+            "ties",
+            "sandwich"
+        ]
+    },
+    {
+        "location": 4836,
+        "id": "c53",
+        "name": "customer_54",
+        "tags": [
+            "beer",
+            "games",
+            "fries",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 2699,
+        "id": "c54",
+        "name": "customer_55",
+        "tags": [
+            "coffee",
+            "soft drinks",
+            "ties",
+            "stockings"
+        ]
+    },
+    {
+        "location": 1916,
+        "id": "c55",
+        "name": "customer_56",
+        "tags": [
+            "cappuccino",
+            "snow boarding",
+            "gym",
+            "ties"
+        ]
+    },
+    {
+        "location": 4189,
+        "id": "c56",
+        "name": "customer_57",
+        "tags": [
+            "fish",
+            "suites",
+            "ties",
+            "shorts"
+        ]
+    },
+    {
+        "location": 2615,
+        "id": "c57",
+        "name": "customer_58",
+        "tags": [
+            "coffee",
+            "gym",
+            "sandwich",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 1698,
+        "id": "c58",
+        "name": "customer_59",
+        "tags": [
+            "pants",
+            "coffee",
+            "shirts",
+            "sauna"
+        ]
+    },
+    {
+        "location": 5373,
+        "id": "c59",
+        "name": "customer_60",
+        "tags": [
+            "burger",
+            "wine",
+            "soft drinks",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 8622,
+        "id": "c60",
+        "name": "customer_61",
+        "tags": [
+            "dresses",
+            "coffee",
+            "chicken",
+            "ties"
+        ]
+    },
+    {
+        "location": 1222,
+        "id": "c61",
+        "name": "customer_62",
+        "tags": [
+            "stockings",
+            "beef",
+            "shorts",
+            "dresses"
+        ]
+    },
+    {
+        "location": 1732,
+        "id": "c62",
+        "name": "customer_63",
+        "tags": [
+            "games",
+            "chicken",
+            "fish",
+            "suites"
+        ]
+    },
+    {
+        "location": 3134,
+        "id": "c63",
+        "name": "customer_64",
+        "tags": [
+            "pork",
+            "t-shirts",
+            "fries",
+            "beer"
+        ]
+    },
+    {
+        "location": 9316,
+        "id": "c64",
+        "name": "customer_65",
+        "tags": [
+            "burger",
+            "stockings",
+            "games",
+            "movies"
+        ]
+    },
+    {
+        "location": 6668,
+        "id": "c65",
+        "name": "customer_66",
+        "tags": [
+            "flights",
+            "suites",
+            "ties",
+            "wine"
+        ]
+    },
+    {
+        "location": 2850,
+        "id": "c66",
+        "name": "customer_67",
+        "tags": [
+            "fish",
+            "tea",
+            "shorts",
+            "sandwich"
+        ]
+    },
+    {
+        "location": 2933,
+        "id": "c67",
+        "name": "customer_68",
+        "tags": [
+            "coffee",
+            "chicken",
+            "gym",
+            "snow boarding"
+        ]
+    },
+    {
+        "location": 5653,
+        "id": "c68",
+        "name": "customer_69",
+        "tags": [
+            "dresses",
+            "beef",
+            "fries",
+            "cheese burger"
+        ]
+    },
+    {
+        "location": 9804,
+        "id": "c69",
+        "name": "customer_70",
+        "tags": [
+            "stockings",
+            "wine",
+            "soft drinks",
+            "pants"
+        ]
+    },
+    {
+        "location": 7394,
+        "id": "c70",
+        "name": "customer_71",
+        "tags": [
+            "pants",
+            "swimming",
+            "soft drinks",
+            "cheese burger"
+        ]
+    },
+    {
+        "location": 1597,
+        "id": "c71",
+        "name": "customer_72",
+        "tags": [
+            "whisky",
+            "tea",
+            "swimming",
+            "vaccation"
+        ]
+    },
+    {
+        "location": 8589,
+        "id": "c72",
+        "name": "customer_73",
+        "tags": [
+            "fish",
+            "cappuccino",
+            "stockings",
+            "shirts"
+        ]
+    },
+    {
+        "location": 4203,
+        "id": "c73",
+        "name": "customer_74",
+        "tags": [
+            "games",
+            "suites",
+            "pork",
+            "chicken"
+        ]
+    },
+    {
+        "location": 9340,
+        "id": "c74",
+        "name": "customer_75",
+        "tags": [
+            "stockings",
+            "beef",
+            "coffee",
+            "cheese burger"
+        ]
+    },
+    {
+        "location": 1424,
+        "id": "c75",
+        "name": "customer_76",
+        "tags": [
+            "movies",
+            "beef",
+            "games",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 9869,
+        "id": "c76",
+        "name": "customer_77",
+        "tags": [
+            "flights",
+            "gym",
+            "tea",
+            "snow boarding"
+        ]
+    },
+    {
+        "location": 9588,
+        "id": "c77",
+        "name": "customer_78",
+        "tags": [
+            "cheese burger",
+            "t-shirts",
+            "shirts",
+            "vaccation"
+        ]
+    },
+    {
+        "location": 1634,
+        "id": "c78",
+        "name": "customer_79",
+        "tags": [
+            "cheese burger",
+            "pants",
+            "chicken",
+            "shirts"
+        ]
+    },
+    {
+        "location": 5400,
+        "id": "c79",
+        "name": "customer_80",
+        "tags": [
+            "fries",
+            "suites",
+            "snow boarding",
+            "t-shirts"
+        ]
+    },
+    {
+        "location": 5188,
+        "id": "c80",
+        "name": "customer_81",
+        "tags": [
+            "burger",
+            "vaccation",
+            "pork",
+            "pants"
+        ]
+    },
+    {
+        "location": 5058,
+        "id": "c81",
+        "name": "customer_82",
+        "tags": [
+            "ties",
+            "wine",
+            "cheese burger",
+            "fries"
+        ]
+    },
+    {
+        "location": 7524,
+        "id": "c82",
+        "name": "customer_83",
+        "tags": [
+            "chicken",
+            "beer",
+            "soft drinks",
+            "pants"
+        ]
+    },
+    {
+        "location": 8540,
+        "id": "c83",
+        "name": "customer_84",
+        "tags": [
+            "whisky",
+            "sandwich",
+            "fish",
+            "shirts"
+        ]
+    },
+    {
+        "location": 5109,
+        "id": "c84",
+        "name": "customer_85",
+        "tags": [
+            "games",
+            "fries",
+            "coffee",
+            "wine"
+        ]
+    },
+    {
+        "location": 5682,
+        "id": "c85",
+        "name": "customer_86",
+        "tags": [
+            "flights",
+            "wine",
+            "suites",
+            "burger"
+        ]
+    },
+    {
+        "location": 9553,
+        "id": "c86",
+        "name": "customer_87",
+        "tags": [
+            "games",
+            "burger",
+            "fries",
+            "t-shirts"
+        ]
+    },
+    {
+        "location": 4647,
+        "id": "c87",
+        "name": "customer_88",
+        "tags": [
+            "coffee",
+            "shirts",
+            "snow boarding",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 6003,
+        "id": "c88",
+        "name": "customer_89",
+        "tags": [
+            "games",
+            "chicken",
+            "shorts",
+            "sandwich"
+        ]
+    },
+    {
+        "location": 3637,
+        "id": "c89",
+        "name": "customer_90",
+        "tags": [
+            "flights",
+            "fish",
+            "swimming",
+            "sauna"
+        ]
+    },
+    {
+        "location": 1615,
+        "id": "c90",
+        "name": "customer_91",
+        "tags": [
+            "sauna",
+            "chicken",
+            "pants",
+            "swimming"
+        ]
+    },
+    {
+        "location": 8885,
+        "id": "c91",
+        "name": "customer_92",
+        "tags": [
+            "wine",
+            "swimming",
+            "movies",
+            "soft drinks"
+        ]
+    },
+    {
+        "location": 6846,
+        "id": "c92",
+        "name": "customer_93",
+        "tags": [
+            "suites",
+            "ties",
+            "pants",
+            "cappuccino"
+        ]
+    },
+    {
+        "location": 3039,
+        "id": "c93",
+        "name": "customer_94",
+        "tags": [
+            "games",
+            "fries",
+            "ties",
+            "burger"
+        ]
+    },
+    {
+        "location": 6758,
+        "id": "c94",
+        "name": "customer_95",
+        "tags": [
+            "flights",
+            "suites",
+            "coffee",
+            "sauna"
+        ]
+    },
+    {
+        "location": 2111,
+        "id": "c95",
+        "name": "customer_96",
+        "tags": [
+            "tea",
+            "swimming",
+            "vaccation",
+            "t-shirts"
+        ]
+    },
+    {
+        "location": 5564,
+        "id": "c96",
+        "name": "customer_97",
+        "tags": [
+            "pants",
+            "ties",
+            "movies",
+            "burger"
+        ]
+    },
+    {
+        "location": 1679,
+        "id": "c97",
+        "name": "customer_98",
+        "tags": [
+            "stockings",
+            "soft drinks",
+            "flights",
+            "snow boarding"
+        ]
+    },
+    {
+        "location": 5101,
+        "id": "c98",
+        "name": "customer_99",
+        "tags": [
+            "cappuccino",
+            "cheese burger",
+            "stockings",
+            "shorts"
+        ]
+    },
+    {
+        "location": 2074,
+        "id": "c99",
+        "name": "customer_100",
+        "tags": [
+            "beef",
+            "tea",
+            "sauna",
+            "t-shirts"
+        ]
+    }
+]
