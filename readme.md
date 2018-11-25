@@ -29,7 +29,9 @@ import pandas as pd
 import numpy as np
 import argparse
 import six
-import google.cloud import language
+from google.cloud import language
+from google.cloud.language import enums
+from google.cloud.language import types
 ```
 
 ## Contributing
